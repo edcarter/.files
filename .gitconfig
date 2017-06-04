@@ -1,0 +1,11 @@
+[user]
+	email = edcarter@ualberta.ca
+	name = edcarter
+[push]
+	default = matching
+[sendemail]
+	from = Elias Carter <edcarter@ualberta.ca>
+	smtpserver = smtp.gmail.com
+	smtpuser = edcarter@ualberta.ca
+	smtpencryption = tls
+	smtpServerPort = 587
